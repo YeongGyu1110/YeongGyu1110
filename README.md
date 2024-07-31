@@ -1,4 +1,3 @@
-
 # **Hello, I am YeongGyu!** 👋
 
 <!--## ⬜ cYs1lent, 영규, 하늘구름
@@ -13,21 +12,18 @@
  ### 1. JavaScript를 활용한 비공식 카카오톡 봇 개발 및 운영 
  - **주 관심사**: 봇 제작을 목적으로 코딩을 할 정도로 주된 관심사
  - **취미 활동**: 봇 개발 자체에 큰 재미를 느끼며, 그만큼 업데이트 또는 개발이 빠름
-![실제로 제작된 '업다운' 게임](https://github.com/user-attachments/assets/0a085089-713d-403e-a208-aab4a7571f16)
-
-
+![실제로 제작된 '업다운' 게임](https://github.com/user-attachments/assets/1d27e5a4-749c-4e28-9732-2dd7f3025d18)
 
  ### 2. HTML, CSS를 활용한 웹사이트 프로그래밍
  - **부사적 관심사**: 여유가 있는 경우에만 작업
  - **신기술**: 웹사이트 제작에 도움되는 것들을 배우고 사용
-![몇몇 코드 실험하며 간단하게 만든 로또번호 뽑아주는 사이트](https://github.com/user-attachments/assets/6dcb1165-4d6e-442a-91a3-e96fb78b8616)
+![몇몇 코드 실험하며 간단하게 만든 로또번호 뽑아주는 사이트](https://github.com/user-attachments/assets/56c12ea9-cbf1-4eed-9c86-dee98a55b3a9)
 
 
 ### 3. HTML, CSS, Json, JavaScrip를 활용한 크롬 익스텐션 제작
  - **악성 스크립트**: 친구 웹 브라우저에 적용시킬 목적으로 개발
  - **비중 낮음**: 주된 관심사는 아니기에 필요할 때만 작업
-![사이트 접속시 모든 이미지를 바꿔버리는 크롬 확장기](https://github.com/user-attachments/assets/40c1c422-1e45-4762-b736-3e9e5676d861)
-
+![사이트 접속시 모든 이미지를 바꿔버리는 크롬 확장기](https://github.com/user-attachments/assets/2bbaa240-8029-4020-bb31-c04043164d37)
 
 ## 🧩 사용 또는 학습 중인 프로그래밍 언어: 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
