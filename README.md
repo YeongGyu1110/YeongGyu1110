@@ -1,4 +1,4 @@
-# **Hello, I am YeongGyu!** 👋
+# 👋**Hello, I am YeongGyu!** 
 
 ## 👀 관심사:
  ### 1. JavaScript를 활용한 비공식 카카오톡 봇 개발 및 운영 
