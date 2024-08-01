@@ -33,6 +33,8 @@
  - 갠톡 활동은 별로 없음
  - 주로 봇 관련 채팅방에 서식함
 
+---
+
 ## 📝주요 리포지토리
 ### [WTF-Examples](https://github.com/YeongGyu1110/WTF-Examples)
  - 스파게티 코드 총 집합소
