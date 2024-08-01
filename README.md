@@ -23,6 +23,8 @@
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
+---
+
 ## [X (Twitter)](https://x.com/cYs1Ient) <!--<a href="https://x.com/cYs1Ient"><img src="https://img.shields.io/badge/cYs1Ient-black?style=flat-square&logo=X&logoColor=white"/></a> -->
  - 주로 프로그래밍, 일상 올라옴
  - 이외의 쓸때없는 것도 같이 올라옴
