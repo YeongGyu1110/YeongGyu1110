@@ -17,6 +17,8 @@
  - **비중 낮음**: 주된 관심사는 아니기에 필요할 때만 작업
 ![사이트 접속시 모든 이미지를 바꿔버리는 크롬 확장기](https://github.com/user-attachments/assets/2bbaa240-8029-4020-bb31-c04043164d37)
 
+---
+
 ## 🧩 사용 또는 학습 중인 프로그래밍 언어: 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
