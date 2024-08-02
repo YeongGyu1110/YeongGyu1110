@@ -41,7 +41,7 @@
 
 ----
 
-## 📝주요 리포지토리
+## 📝주요 리포지토리---
 ### [WTF-Examples](https://github.com/YeongGyu1110/WTF-Examples)
  - 스파게티 코드 총 집합소
  - 딱히 배울 건 없으며 재미용으로만
