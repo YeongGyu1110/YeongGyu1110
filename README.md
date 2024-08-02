@@ -1,6 +1,5 @@
 
 # 👋**Hello, I am YeongGyu!** 
----
 
 
 ## 👀 관심사:
