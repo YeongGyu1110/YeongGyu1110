@@ -1,6 +1,7 @@
-----
 
 # 👋**Hello, I am YeongGyu!** 
+---
+
 
 ## 👀 관심사:
  ### 1. JavaScript를 활용한 비공식 카카오톡 봇 개발 및 운영 
@@ -19,7 +20,7 @@
  - **비중 낮음**: 주된 관심사는 아니기에 필요할 때만 작업
 ![사이트 접속시 모든 이미지를 바꿔버리는 크롬 확장기](https://github.com/user-attachments/assets/2bbaa240-8029-4020-bb31-c04043164d37)
 
----
+----
 
 ## 🧩 사용 또는 학습 중인 프로그래밍 언어: 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -39,7 +40,7 @@
  - 갠톡 활동은 별로 없음
  - 주로 봇 관련 채팅방에 서식함
 
----
+----
 
 ## 📝주요 리포지토리
 ### [WTF-Examples](https://github.com/YeongGyu1110/WTF-Examples)
