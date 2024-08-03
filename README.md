@@ -2,6 +2,9 @@
 
 
 # 👋**Hello, I am YeongGyu!** 
+ - JavaScript를 이용한 카카오톡 봇 개발 중
+
+---
 
 ## 👀 관심사:
  ### 1. JavaScript를 활용한 비공식 카카오톡 봇 개발 및 운영 
