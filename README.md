@@ -42,7 +42,7 @@
 ----
 
 ## 📝주요 리포지토리
-### [<U>WTF-Examples</U>](https://github.com/YeongGyu1110/WTF-Examples)
+### <U>[WTF-Examples](https://github.com/YeongGyu1110/WTF-Examples)</U>
  - 스파게티 코드 총 집합소
  - 딱히 배울 건 없으며 재미용으로만
  - 'Esoteric programming language', 난해한 프로그래밍 언어 예제가 올라오기도 함 (ex: 혀엉..., 엄랭)
