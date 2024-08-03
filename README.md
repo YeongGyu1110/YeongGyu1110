@@ -30,20 +30,20 @@
 
 ---
 
-## [X (Twitter)](https://x.com/cYs1Ient) <!--<a href="https://x.com/cYs1Ient"><img src="https://img.shields.io/badge/cYs1Ient-black?style=flat-square&logo=X&logoColor=white"/></a> -->
+## [<ins>X</ins>](https://x.com/cYs1Ient) <!--<a href="https://x.com/cYs1Ient"><img src="https://img.shields.io/badge/cYs1Ient-black?style=flat-square&logo=X&logoColor=white"/></a> -->
  - 주로 프로그래밍, 일상 올라옴
  - 이외의 쓸때없는 것도 같이 올라옴
  - 중국어 개시글 많이 올라오니 중국어만 보면 발작하는 사람들은 주의 필요
  - 아는 사람 아니면 대부분 팔로워 요청 거절함
 
-## [카카오톡 오픈채팅](https://open.kakao.com/me/cYs1lent) <!--<a href="https://open.kakao.com/me/cYs1lent"><img src="https://img.shields.io/badge/cYs1lent-black?style=flat-square&logo=kakaoTalk&logoColor=F7E600"/></a> -->
+## [<ins>카카오톡 오픈채팅</ins>](https://open.kakao.com/me/cYs1lent) <!--<a href="https://open.kakao.com/me/cYs1lent"><img src="https://img.shields.io/badge/cYs1lent-black?style=flat-square&logo=kakaoTalk&logoColor=F7E600"/></a> -->
  - 갠톡 활동은 별로 없음
  - 주로 봇 관련 채팅방에 서식함
 
 ----
 
 ## 📝주요 리포지토리
-### <mark>[WTF-Examples](https://github.com/YeongGyu1110/WTF-Examples)</mark>
+### [<ins>WTF-Examples</ins>](https://github.com/YeongGyu1110/WTF-Examples)
  - 스파게티 코드 총 집합소
  - 딱히 배울 건 없으며 재미용으로만
  - 'Esoteric programming language', 난해한 프로그래밍 언어 예제가 올라오기도 함 (ex: 혀엉..., 엄랭)
