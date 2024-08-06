@@ -36,7 +36,7 @@
 ## [<ins>X</ins>](https://x.com/cYs1Ient) <!--<a href="https://x.com/cYs1Ient"><img src="https://img.shields.io/badge/cYs1Ient-black?style=flat-square&logo=X&logoColor=white"/></a> -->
  - 주로 프로그래밍, 일상 올라옴
  - 이외의 쓸때없는 것도 같이 올라옴
- - 중국어 개시글 많이 올라오니 중국어만 보면 발작하는 사람들은 주의 필요
+ - 중국어 게시글 많이 올라오니 중국어만 보면 발작하는 사람들은 주의 필요
  - 아는 사람 아니면 대부분 팔로워 요청 거절함
 
 ## [<ins>카카오톡 오픈채팅</ins>](https://open.kakao.com/me/cYs1lent) <!--<a href="https://open.kakao.com/me/cYs1lent"><img src="https://img.shields.io/badge/cYs1lent-black?style=flat-square&logo=kakaoTalk&logoColor=F7E600"/></a> -->
