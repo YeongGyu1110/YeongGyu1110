@@ -6,7 +6,7 @@
 
 ---
 
-## 👀 관심사:
+## 👀 관심사
  ### 1. JavaScript를 활용한 비공식 카카오톡 봇 개발 및 운영 
  - **주 관심사**: 봇 제작을 목적으로 코딩을 할 정도로 주된 관심사
  - **취미 활동**: 봇 개발 자체에 큰 재미를 느끼며, 그만큼 업데이트 또는 개발이 빠름
@@ -25,7 +25,7 @@
 
 ----
 
-## 🧩 사용 또는 학습 중인 프로그래밍 언어: 
+## 🧩 사용 또는 학습 중인 프로그래밍 언어
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
