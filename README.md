@@ -52,7 +52,7 @@
  - 'Esoteric programming language', 난해한 프로그래밍 언어 예제가 올라오기도 함 (ex: 혀엉..., 엄랭)
 
 ---
-
+![
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
         c1{5.42%{fill:var(--c1)}5.44%,to{fill:var(--ce)}}@keyframes
@@ -807,5 +807,5 @@
     <rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/>
     <rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/>
     <rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/>
-</svg>
+</svg>]
 
