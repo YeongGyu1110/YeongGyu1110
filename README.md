@@ -54,4 +54,6 @@
 
 ### [<ins>Chrome-Extension</ins>](https://github.com/YeongGyu1110/Chrome-Extension)
  - 친구 웹 브라우저에 적용시킬 목적으로 개발
+ - [<ins>코딩사과씨</ins>](https://www.youtube.com/watch?v=pIQmxUk_FdI)가 잘 가르쳐줍니다.
+ - 따라 배움
 ---
