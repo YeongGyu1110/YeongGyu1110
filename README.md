@@ -53,5 +53,5 @@
  - 'Esoteric programming language', 난해한 프로그래밍 언어 예제가 올라오기도 함 (ex: 혀엉..., 엄랭)
 
 ### [<ins>Chrome-Extension</ins>](https://github.com/YeongGyu1110/Chrome-Extension)
-
+ - 친구 웹 브라우저에 적용시킬 목적으로 개발
 ---
