@@ -15,7 +15,7 @@
  ### 2. HTML, CSS를 활용한 웹사이트 프로그래밍
  - **부사적 관심사**: 여유가 있는 경우에만 작업
  - **신기술**: 웹사이트 제작에 도움되는 것들을 배우고 사용
-![간단하게 만든 주사위 도박](https://github.com/user-attachments/assets/34a79e1a-9f4b-4b1a-aed8-66209e65a490)
+![간단하게 만든 주사위로 하는 도박게임](https://github.com/user-attachments/assets/34a79e1a-9f4b-4b1a-aed8-66209e65a490)
 
 
 
