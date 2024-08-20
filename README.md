@@ -1,7 +1,7 @@
 
 
 
-# 👋**Hello, I'm YeongGyu! 🚽 **
+# 👋**Hello, I'm YeongGyu! **
  - JavaScript를 이용한 카카오톡 봇 개발 중
  - 🚽
 
