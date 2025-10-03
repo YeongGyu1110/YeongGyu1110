@@ -1,1 +1,1 @@
-<img width="1330" height="272" alt="image" src="https://github.com/user-attachments/assets/9304fb50-4bd1-420e-af2d-5c363e1f5af3" />
+<img width="1346" height="312" alt="rounded-in-photoretrica (2)" src="https://github.com/user-attachments/assets/d7886cda-5622-4207-8f7e-9a076f4214ed" />
