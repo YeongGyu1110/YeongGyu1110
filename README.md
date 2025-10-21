@@ -1,1 +1,1 @@
-[<img width="1346" height="312" alt="yeonggyu1110" src="https://github.com/user-attachments/assets/d7886cda-5622-4207-8f7e-9a076f4214ed"/>](https://github.com/yeonggyu1110)
+[<img width="1346" height="312" alt="yeonggyu1110" src="https://github.com/user-attachments/assets/d7886cda-5622-4207-8f7e-9a076f4214ed"/>](https://able-daughter-6e8.notion.site/YeongGyu-292a9dde58f480ba8a2bc0098e555938?pvs=74)
